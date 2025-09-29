@@ -1,11 +1,11 @@
 {
-    "tfl_api_key" : "544702dc4ebd454484c50498d15b5730",
+    "tfl_api_key" : "",
     "snowflake" : {
-        "user" : "ANSHUMANSAHU",
-        "password" : "CRCEieee2025%%",
-        "account" : "chzupjq-nv82139",   
-        "warehouse" : "COMPUTE_WH",
-        "database" : "TRANSPORT_DB",
-        "schema" : "PUBLIC"
+        "user" : "",
+        "password" : "",
+        "account" : "",   
+        "warehouse" : "",
+        "database" : "",
+        "schema" : ""
     }
 }
